@@ -1,1 +1,1 @@
-5977113e-2ff6-11e5-a9da-881fa100fc78
+object HelloWorld {def main(args: Array[string]) {println("hello world")}}
